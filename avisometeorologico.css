@@ -1,0 +1,493 @@
+img.wp-smiley,
+img.emoji {
+  display: inline !important;
+  border: none !important;
+  box-shadow: none !important;
+  height: 1em !important;
+  width: 1em !important;
+  margin: 0 .07em !important;
+  vertical-align: -0.1em !important;
+  background: none !important;
+  padding: 0 !important;
+}
+
+a:hover,
+.menu .current-menu-item>a,
+.menu .current-menu-item,
+.current-menu-ancestor>a.sf-with-ul,
+.current-menu-ancestor,
+footer .textwidget a,
+.single_post a,
+#commentform a,
+a,
+footer .widget li a:hover,
+.menu>li:hover>a,
+.single_post .post-info a,
+.post-info a,
+.readMore a,
+.reply a,
+.fn a,
+.carousel a:hover,
+.single_post .related-posts a:hover,
+.sidebar.c-4-12 .textwidget a,
+footer .textwidget a,
+.sidebar.c-4-12 a:hover,
+.title a:hover,
+.trending-articles li a:hover,
+#box-resultado-consulta .titulo-resultado,
+.main-menu h4,
+.box-resultado-prev .title-region {
+  color: #007bbf;
+}
+
+.nav-previous a,
+.nav-next a,
+.sub-menu,
+#commentform input#submit,
+.tagcloud a,
+#tabber ul.tabs li a.selected,
+.featured-cat,
+.mts-subscribe input[type='submit'],
+.pagination a,
+.widget .wpt_widget_content #tags-tab-content ul li a,
+.latestPost-review-wrapper,
+.pagination .dots,
+.primary-navigation #wpmm-megamenu .wpmm-posts .wpmm-pagination a,
+#wpmm-megamenu .review-total-only,
+.copyrights,
+.social-profile-icons,
+.btn-primary:hover {
+  background: #007bbf;
+  color: #fff;
+}
+
+.header-button {
+  background: #dd2e57;
+}
+
+#logo a,
+#navigation ul ul a {
+  color: #2a2a2a;
+}
+
+#navigation ul li,
+.main-menu li a,
+.search-panel a,
+.search-panel .search-panel-button,
+.btn-color-default,
+.table-regiao-pluviometrica thead tr,
+.panel-default-sala-situacao>.panel-heading {
+  background-color: #007bbf;
+}
+
+#divBottomRight img {
+  width: 40px;
+}
+
+#divBottomRight {
+  min-width: 0px;
+  position: static;
+}
+
+#responsive-menu .appendLink,
+#responsive-menu .responsive-menu li a,
+#responsive-menu #responsive-menu-title a,
+#responsive-menu .responsive-menu,
+#responsive-menu div,
+#responsive-menu .responsive-menu li,
+#responsive-menu {
+  box-sizing: content-box !important;
+  -moz-box-sizing: content-box !important;
+  -webkit-box-sizing: content-box !important;
+  -o-box-sizing: content-box !important
+}
+
+.RMPushOpen {
+  width: 100% !important;
+  overflow-x: hidden !important;
+  height: 100% !important
+}
+
+.RMPushSlide {
+  position: relative;
+  right: 200%
+}
+
+#responsive-menu {
+  position: fixed;
+  overflow-y: auto;
+  bottom: 0px;
+  width: 200px;
+  right: -200px;
+  top: 0px;
+  background: #007bbf;
+  z-index: 9999;
+  box-shadow: 0px 1px 8px #333333;
+  font-size: 13px !important;
+  max-width: 999px;
+  display: none
+}
+
+#responsive-menu.admin-bar-showing {
+  padding-top: 32px
+}
+
+#click-menu.admin-bar-showing {
+  margin-top: 32px
+}
+
+#responsive-menu #rm-additional-content {
+  padding: 10px 5% !important;
+  width: 90% !important;
+  color: #FFFFFF
+}
+
+#responsive-menu .appendLink {
+  right: 0px !important;
+  position: absolute !important;
+  border: 1px solid #3C3C3C !important;
+  padding: 12px 10px !important;
+  color: #FFFFFF !important;
+  background: #43494C !important;
+  height: 20px !important;
+  line-height: 20px !important;
+  border-right: 0px !important
+}
+
+#responsive-menu .appendLink:hover {
+  cursor: pointer;
+  background: #3C3C3C !important;
+  color: #FFFFFF !important
+}
+
+#responsive-menu .responsive-menu,
+#responsive-menu div,
+#responsive-menu .responsive-menu li,
+#responsive-menu {
+  text-align: left !important
+}
+
+#responsive-menu .RMImage {
+  vertical-align: middle;
+  margin-right: 10px;
+  display: inline-block
+}
+
+#responsive-menu.RMOpened {
+
+  overflow-x: hidden;
+}
+
+#responsive-menu,
+#responsive-menu input {}
+
+#responsive-menu #responsive-menu-title {
+  width: 95% !important;
+  font-weight: 800;
+  font-size: 16px !important;
+  padding: 10px 0px 10px 10px !important;
+  margin-left: 0px !important;
+  background: #43494C !important;
+  white-space: nowrap !important
+}
+
+#responsive-menu #responsive-menu-title,
+#responsive-menu #responsive-menu-title a {
+  color: #FFFFFF !important;
+  text-decoration: none !important;
+  overflow: hidden !important
+}
+
+#responsive-menu #responsive-menu-title a:hover {
+  color: #FFFFFF !important;
+  text-decoration: none !important
+}
+
+#responsive-menu .appendLink,
+#responsive-menu .responsive-menu li a,
+#responsive-menu #responsive-menu-title a {
+  transition: 1s all;
+  -webkit-transition: 1s all;
+  -moz-transition: 1s all;
+  -o-transition: 1s all
+}
+
+#responsive-menu .responsive-menu {
+  width: 100% !important;
+  list-style-type: none !important;
+  margin: 0px !important
+}
+
+#responsive-menu .responsive-menu li.current-menu-item>a,
+#responsive-menu .responsive-menu li.current-menu-item>.appendLink,
+#responsive-menu .responsive-menu li.current_page_item>a,
+#responsive-menu .responsive-menu li.current_page_item>.appendLink {
+  background: #43494C !important;
+  color: #FFFFFF !important
+}
+
+#responsive-menu .responsive-menu li.current-menu-item>a:hover,
+#responsive-menu .responsive-menu li.current-menu-item>.appendLink:hover,
+#responsive-menu .responsive-menu li.current_page_item>a:hover,
+#responsive-menu .responsive-menu li.current_page_item>.appendLink:hover {
+  background: #43494C !important;
+  color: #FFFFFF !important
+}
+
+#responsive-menu.responsive-menu ul {
+  margin-left: 0px !important
+}
+
+#responsive-menu .responsive-menu li {
+  list-style-type: none !important;
+  position: relative !important
+}
+
+#responsive-menu .responsive-menu ul li:last-child {
+  padding-bottom: 0px !important
+}
+
+#responsive-menu .responsive-menu li a {
+  padding: 2px 0px 2px 10px;
+  display: block !important;
+  height: 20px !important;
+  line-height: 20px !important;
+  overflow: hidden !important;
+  white-space: nowrap !important;
+  color: #FFFFFF !important;
+  border-top: 1px solid #3C3C3C !important;
+  text-decoration: none !important
+}
+
+#click-menu {
+  text-align: center;
+  cursor: pointer;
+  font-size: 13px !important;
+  display: none;
+  position: fixed;
+  right: 0%;
+  top: 150px;
+  color: #007bbf;
+  background-color: #007bbf;
+  padding: 5px;
+  z-index: 9999
+}
+
+#responsive-menu #responsiveSearch {
+  display: block !important;
+  width: 95% !important;
+  padding-left: 5% !important;
+  border-top: 1px solid #3C3C3C !important;
+  clear: both !important;
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+  height: 40px !important;
+  line-height: 40px !important
+}
+
+#responsive-menu #responsiveSearchSubmit {
+  display: none !important
+}
+
+#responsive-menu #responsiveSearchInput {
+  width: 91% !important;
+  padding: 5px 0px 5px 3% !important;
+  -webkit-appearance: none !important;
+  border-radius: 2px !important;
+  border: 1px solid #3C3C3C !important
+}
+
+#responsive-menu .responsive-menu,
+#responsive-menu div,
+#responsive-menu .responsive-menu li {
+  width: 100% !important;
+  margin-left: 0px !important;
+  padding-left: 0px !important
+}
+
+#responsive-menu .responsive-menu li li a {
+  padding-left: 10% !important;
+  width: 90% !important;
+  overflow: hidden !important
+}
+
+#responsive-menu .responsive-menu li li li a {
+  padding-left: 15% !important;
+  width: 85% !important;
+  overflow: hidden !important
+}
+
+#responsive-menu .responsive-menu li li li li a {
+  padding-left: 20% !important;
+  width: 80% !important;
+  overflow: hidden !important
+}
+
+#responsive-menu .responsive-menu li li li li li a {
+  padding-left: 25% !important;
+  width: 75% !important;
+  overflow: hidden !important
+}
+
+#responsive-menu .responsive-menu li a:hover {
+  background: #3C3C3C !important;
+  color: #FFFFFF !important;
+  list-style-type: none !important;
+  text-decoration: none !important
+}
+
+#click-menu #RMX {
+  display: none
+}
+
+#click-menu #RMX.threelines-float-left,
+#click-menu #RMX.threelines-float-right,
+#click-menu-label {
+  line-height: 14px !important
+}
+
+#click-menu-label.click-menu-label-left {
+  float: left !important;
+  margin-right: 10px !important
+}
+
+#click-menu-label.click-menu-label-right {
+  color: black;
+  position: absolute;
+  margin-top: 4px;
+  float: left;
+  margin-left: 5px;
+  font-weight: bold
+}
+
+#click-menu img,
+#click-menu .threeLines {
+  width: 33px !important;
+  height: 27px !important;
+  margin: 6px auto !important
+}
+
+#click-menu img.rm-img-clicked {
+  display: none
+}
+
+#click-menu img {
+  height: auto !important
+}
+
+#click-menu img.click-menu-float-left,
+#click-menu img.click-menu-float-right,
+#click-menu .threeLines.threelines-float-left {
+  float: left !important
+}
+
+#click-menu .threeLines .line {
+  height: 5px !important;
+  margin-bottom: 6px !important;
+  background: #FFFFFF !important;
+  width: 100% !important
+}
+
+#click-menu .threeLines .line.last {
+  margin-bottom: 0px !important
+}
+
+@media only screen and (min-width : 0px) and (max-width : 4000px) {
+  #click-menu {
+    display: block
+  }
+}
+
+/* ZACARIAS */
+#newModal {
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(rgba(75, 75, 75, 0.336), rgb(0, 0, 0));
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+  font-size: 2rem;
+}
+
+.newModalHeader {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.newModalContent {
+  display: flex;
+  flex-direction: column;
+  background-color: #007bbf;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.2rem;
+  color: #fff;
+
+  font-size: 2rem;
+  width: 90%;
+}
+
+.xNewModal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Helvetica, sans-serif;
+  width: 3rem;
+  height: 3rem;
+  cursor: pointer;
+  font-size: 2rem;
+  background-color: rgb(255, 255, 255);
+  color: #007bbf;
+  border-radius: 5rem;
+}
+
+.xNewModal:hover {
+  background-color: #004063;
+  color: #ffffff;
+}
+
+.newModalBody {
+  margin-bottom: 1rem;
+  text-align: left;
+}
+
+.newModalFooter a {
+  text-decoration: underline;
+}
+
+/* .modal {
+  background-color: #000000b4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-header {
+  text-align: center;
+}
+
+.modal-body {
+  padding: 2rem;
+  font-size: 1.7rem;
+  color: #000;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+.modal-body ul {
+  margin-left: 0;
+}
+
+.modal-logo {
+  width: 15rem;
+} */
+
+/* ZACARIAS */
